@@ -1,0 +1,1 @@
+PROMPT Sortie du programme
